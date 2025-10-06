@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.projectservice;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
